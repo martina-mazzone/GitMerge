@@ -1,2 +1,3 @@
-Questa è la prima riga
+Questa è la prima firma
 Aggiungo qualcosa qui
+dal file C emerge che...
